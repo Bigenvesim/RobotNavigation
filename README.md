@@ -5,7 +5,6 @@ To run this program, do the following steps:
 			Note: "previouse_address" is the address of the folder where RobotNav folder is being placed
 				E.g: if the Assign1 folder is in the Desktop, then the command should be:
 					"C:\Users\Jason>cd Desktop\RobotNav\bin\Debug"
-
 		2. Type: RobotNav.exe text.txt "algorithm_name"                            to the command prompt
 			Note: _ text.txt is the textfile file that contains data of the Robot Navigation problem
 			      _ "algorithm_name" is the name of the method that user wants to use for searching.
@@ -17,5 +16,4 @@ To run this program, do the following steps:
                   + "cus1" - Uninformed custom search algorithm
                   + "cus2" - Informed custom search algorithm
                   
-                  
-// [](images/34.PNG)
+![](images/34.PNG)
