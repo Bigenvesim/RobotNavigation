@@ -1,6 +1,7 @@
 # RobotNavigation
 RobotNavigation
 To run this program, do the following steps:
+
 		1. Type: cd "previouse_address"\RobotNav\bin\Debug    to the command prompt
 			Note: "previouse_address" is the address of the folder where RobotNav folder is being placed
 				E.g: if the Assign1 folder is in the Desktop, then the command should be:
