@@ -18,4 +18,4 @@ To run this program, do the following steps:
                   + "cus2" - Informed custom search algorithm
                   
                   
- [](images/34.PNG)
+// [](images/34.PNG)
